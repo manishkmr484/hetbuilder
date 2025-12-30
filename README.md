@@ -19,7 +19,7 @@ Otherwise, these will be built during the installation from the submodules.
 
 Create a clean conda environment:
 ```bash
-conda env create -n hetbuilder python=3.11
+conda create -n hetbuilder python=3.11
 ```
 
 Then install the build-time dependencies first:
