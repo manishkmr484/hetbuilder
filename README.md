@@ -33,7 +33,7 @@ pip install hetbuilder
 ```
 -->
 
-Install directly from git via pip:
+Install directly from git via pip: [THIS WORKS]
 ```bash
 pip install git+https://github.com/romankempt/hetbuilder.git
 ```
